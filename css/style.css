@@ -376,3 +376,25 @@ textarea {
   float: left;
   padding: 10px;
 }
+
+.intro-heading a{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: menlo;
+  text-transform: uppercase;
+  display: block;
+  padding-bottom: 20px;
+  border: 2px white solid;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 20px;
+  margin-bottom: 10px;
+
+}
+
+.intro-heading a:hover{
+  background: lightgray;
+  color: black;
+}
+
