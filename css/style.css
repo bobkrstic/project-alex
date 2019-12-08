@@ -261,6 +261,17 @@ a:hover{
   display: inline-block;
 }
 
+
+
+.service-2{
+  color: white;
+  float: right;
+  box-sizing: border-box;
+  width: 50%;
+  padding-top: 10%;
+
+}
+
 .portfolio {
   width: 100%;
   margin-top: 13%;
